@@ -1,2 +1,1 @@
-# vendetta-plugins
-plugins for discord clients based on vendetta
+[Link](https://n0t-a-username.github.io/RevPlugins/template/)
