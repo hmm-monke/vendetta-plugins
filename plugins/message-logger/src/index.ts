@@ -2,9 +2,9 @@ const { logger } = (window as any).vendetta;
 
 export default {
   onLoad: () => {
-    logger.log("woof");
+    logger.log("Plugin loaded.");
   },
   onUnload: () => {
-    logger.log("woof bye");
+    logger.log("Plugin unloaded.");
   }
 };
