@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "build": "deno run -A build.js"
+  },
+  "imports": {
+    "@rollup/plugin-commonjs": "npm:@rollup/plugin-commonjs@^29.0.0",
+    "@rollup/plugin-node-resolve": "npm:@rollup/plugin-node-resolve@^16.0.3",
+    "rollup": "npm:rollup@^4.57.0",
+    "rollup-plugin-esbuild": "npm:rollup-plugin-esbuild@^6.2.1"
+  }
+}
